@@ -1,1 +1,7 @@
-...
+Students are known to struggle with effective time management during exam and assessment periods. For high school students aged 13 to 18, academic pressure increases as multiple subjects, assessments, and deadlines often overlap within short timeframes. This makes it difficult to decide when to study, what to prioritise, and how to distribute time and energy to each subject in a way that is sustainable.
+
+Poor study planning can lead to stress, confusion, and cognitive overload. A lot of students  leave their study to the last minute or have unbalanced revision, which leads to reduced retention, wellbeing, and academic performance. These behaviours can result in burnout, reduced focus, and loss of marks.
+
+Current digital study planners fail to effectively address this issue. Most focus on task scheduling , without including considerations for subject complexity, revision strategies, rest periods, or mental fatigue. They also lack tools to adapt to changing amounts of work and do not support students with multiple subjects. As a result, students are required to manually manage complex study routines, increasing the chance of disorganisation and stress.
+
+This problem reveals a clear need for a assisted study planner made for students that reflects the realities of high school assessment demands.
