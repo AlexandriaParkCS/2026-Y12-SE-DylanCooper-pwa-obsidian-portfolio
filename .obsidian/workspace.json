@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "66b8f0991cad9876",
+        "id": "1a102d3c8ca15b7f",
         "type": "tabs",
         "children": [
           {
-            "id": "218795d0f261d1d4",
+            "id": "2804ad1ce18583c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. My Portfolio/1. Project Journal/PJ-20260105.md",
+                "file": "02. My Portfolio/2. Project Proposal/PP-04 Deliverables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PJ-20260105"
+              "title": "PP-04 Deliverables"
             }
           }
         ]
@@ -155,8 +155,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -178,14 +178,23 @@
               "icon": "message-square",
               "title": "Enhanced Annotations"
             }
+          },
+          {
+            "id": "23d3d6953cb44696",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 285.5,
-    "collapsed": true
+    "width": 285.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,9 +209,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "218795d0f261d1d4",
+  "active": "2804ad1ce18583c1",
   "lastOpenFiles": [
     "02. My Portfolio/2. Project Proposal/PP-05 Methodology.md",
+    "Read Me First.md",
+    "2026-01-03.md",
+    "2026-01-05.md",
+    "Untitled.base",
     "02. My Portfolio/1. Project Journal/PJ-20260105.md",
     "02. My Portfolio/2. Project Proposal/PP-04 Deliverables.md",
     "02. My Portfolio/2. Project Proposal/PP-06 Timeline.md",
@@ -214,21 +227,17 @@
     "01. Student Guide/2. Project Proposal/PP-02 Problem Description.md",
     "02. My Portfolio/2. Project Proposal/PP-03 Proposed Solution.md",
     "02. My Portfolio/2. Project Proposal/PP-02 Problem Description.md",
-    "2026-01-03.md",
     "02. My Portfolio/2. Project Proposal/PP-01 Executive Summary.md",
     "02. My Portfolio/1. Project Journal/PJ-20260103.md",
     "01. Student Guide/2. Project Proposal/PP-07 Resources.md",
     "01. Student Guide/2. Project Proposal/PP-06 Timeline.md",
     "01. Student Guide/1. Project Journal/PJ-20261029 - Good Journal Entry.md",
     "01. Student Guide/2. Project Proposal/PP-01 Executive Summary.md",
-    "Read Me First.md",
     "01. Student Guide/2. Project Proposal/About Project Proposal.md",
     "01. Student Guide/1. Project Journal/PJ-20251029 - Bad Journal Entry.md",
     "Untitled.canvas",
     "01. Student Guide/1. Project Journal/About Project Journal.md",
     "01. Student Guide/0. General/Study Resources.md",
-    "01. Student Guide/4. Application Implementation/About Application Implementation.md",
-    "02. My Portfolio/4. Application Implementation/CR-20251126 - Code Review Report Template.md",
     "01. Student Guide/4. Application Implementation/PWA Architecture.png",
     "Pasted image 20251125115436.png",
     "01. Student Guide/5. Application Testing",
@@ -247,7 +256,6 @@
     "01. Portfolio Guide/3. Producing and Implementinf",
     "01. Student Guide/2. Project Proposal",
     "01. Student Guide/1. Project Journal",
-    "01. Student Guide/0. General",
-    "01. Student Guide/4. Testing and Evaluation"
+    "01. Student Guide/0. General"
   ]
 }
