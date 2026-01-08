@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ca2b6c0901c4c035",
+        "id": "647ac03b3862ce0a",
         "type": "tabs",
         "children": [
           {
-            "id": "b833396854180634",
+            "id": "fe5c13f8f1808828",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "02. My Portfolio/2. Project Proposal/PP-07 Resources.md",
-                "bFile": "02. My Portfolio/2. Project Proposal/PP-07 Resources.md",
-                "aRef": ""
+                "file": "02. My Portfolio/2. Project Proposal/PP-08 Budget.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: PP-07 Resources"
+              "icon": "lucide-file",
+              "title": "PP-08 Budget"
             }
           }
         ]
@@ -209,13 +209,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0278de542c3173d3",
+  "active": "fe5c13f8f1808828",
   "lastOpenFiles": [
-    "02. My Portfolio/2. Project Proposal/PP-07 Resources.md",
+    "01. Student Guide/2. Project Proposal/PP-08 Budget.md",
+    "02. My Portfolio/2. Project Proposal/PP-08 Budget.md",
     "01. Student Guide/2. Project Proposal/PP-07 Resources.md",
+    "01. Student Guide/2. Project Proposal/PP-05 Methodology.md",
+    "01. Student Guide/2. Project Proposal/PP-02 Problem Description.md",
+    "01. Student Guide/2. Project Proposal/About Project Proposal.md",
+    "01. Student Guide/2. Project Proposal/PP-03 Proposed Solution.md",
+    "01. Student Guide/2. Project Proposal/PP-01 Executive Summary.md",
+    "02. My Portfolio/2. Project Proposal/PP-07 Resources.md",
     "02. My Portfolio/2. Project Proposal/PP-06 Timeline.md",
-    "Pasted image 20260108163459.png",
+    "02. My Portfolio/2. Project Proposal/PP-05 Methodology.md",
     "01. Student Guide/2. Project Proposal/PP-06 Timeline.md",
+    "02. My Portfolio/2. Project Proposal/PP-02 Problem Description.md",
+    "Pasted image 20260108163459.png",
     "01. Student Guide/3. Application Design/Sign Up Story Board.png",
     "01. Student Guide/3. Application Design/Generate Dashboard Structure Chart.png",
     "01. Student Guide/3. Application Design/Categorise Transactions Flow Chart.png",
@@ -225,25 +234,17 @@
     "01. Student Guide/3. Application Design/AD-07 Class Diagrams.md",
     "01. Student Guide/3. Application Design/AD-02 Data Flow Diagrams.md",
     "01. Student Guide/3. Application Design/AD-01 Story Boards.md",
-    "02. My Portfolio/2. Project Proposal/PP-05 Methodology.md",
     "02. My Portfolio/2. Project Proposal/PP-04 Deliverables.md",
     "02. My Portfolio/2. Project Proposal/PP-03 Proposed Solution.md",
-    "02. My Portfolio/2. Project Proposal/PP-08 Budget.md",
-    "02. My Portfolio/2. Project Proposal/PP-02 Problem Description.md",
     "02. My Portfolio/1. Project Journal/PJ-20260105.md",
     "Read Me First.md",
     "2026-01-03.md",
     "2026-01-05.md",
     "Untitled.base",
-    "01. Student Guide/2. Project Proposal/PP-08 Budget.md",
-    "01. Student Guide/2. Project Proposal/PP-05 Methodology.md",
     "01. Student Guide/2. Project Proposal/PP-04 Deliverables.md",
-    "01. Student Guide/2. Project Proposal/PP-03 Proposed Solution.md",
-    "01. Student Guide/2. Project Proposal/PP-02 Problem Description.md",
     "02. My Portfolio/2. Project Proposal/PP-01 Executive Summary.md",
     "02. My Portfolio/1. Project Journal/PJ-20260103.md",
     "01. Student Guide/1. Project Journal/PJ-20261029 - Good Journal Entry.md",
-    "01. Student Guide/2. Project Proposal/PP-01 Executive Summary.md",
     "Untitled.canvas",
     "01. Student Guide/4. Application Implementation/PWA Architecture.png",
     "Pasted image 20251125115436.png",
