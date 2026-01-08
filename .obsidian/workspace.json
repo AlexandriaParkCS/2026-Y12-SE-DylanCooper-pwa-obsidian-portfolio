@@ -178,9 +178,19 @@
               "icon": "message-square",
               "title": "Enhanced Annotations"
             }
+          },
+          {
+            "id": "0278de542c3173d3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
