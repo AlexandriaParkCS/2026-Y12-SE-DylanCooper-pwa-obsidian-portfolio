@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8f7a65c57d76b81b",
+        "id": "2c06ac1551133a7a",
         "type": "tabs",
         "children": [
           {
-            "id": "87b141ffb910c26e",
+            "id": "2e810e8c2ead6219",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "02. My Portfolio/2. Project Proposal/PP-05 Methodology.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "PP-05 Methodology"
             }
           }
         ]
@@ -178,19 +178,9 @@
               "icon": "message-square",
               "title": "Enhanced Annotations"
             }
-          },
-          {
-            "id": "23d3d6953cb44696",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -209,7 +199,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87b141ffb910c26e",
+  "active": "2e810e8c2ead6219",
   "lastOpenFiles": [
     "02. My Portfolio/2. Project Proposal/PP-06 Timeline.md",
     "02. My Portfolio/2. Project Proposal/PP-05 Methodology.md",
