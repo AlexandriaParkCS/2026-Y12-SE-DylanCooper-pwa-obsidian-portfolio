@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1a102d3c8ca15b7f",
+        "id": "8f7a65c57d76b81b",
         "type": "tabs",
         "children": [
           {
-            "id": "2804ad1ce18583c1",
+            "id": "87b141ffb910c26e",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "02. My Portfolio/2. Project Proposal/PP-04 Deliverables.md",
-                "bFile": "02. My Portfolio/2. Project Proposal/PP-04 Deliverables.md",
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: PP-04 Deliverables"
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -194,7 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 494.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,20 +209,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2804ad1ce18583c1",
+  "active": "87b141ffb910c26e",
   "lastOpenFiles": [
+    "02. My Portfolio/2. Project Proposal/PP-06 Timeline.md",
+    "02. My Portfolio/2. Project Proposal/PP-05 Methodology.md",
     "02. My Portfolio/2. Project Proposal/PP-04 Deliverables.md",
+    "02. My Portfolio/2. Project Proposal/PP-07 Resources.md",
+    "02. My Portfolio/2. Project Proposal/PP-03 Proposed Solution.md",
+    "01. Student Guide/2. Project Proposal/PP-06 Timeline.md",
+    "02. My Portfolio/2. Project Proposal/PP-08 Budget.md",
     "02. My Portfolio/2. Project Proposal/PP-02 Problem Description.md",
     "02. My Portfolio/1. Project Journal/PJ-20260105.md",
-    "02. My Portfolio/2. Project Proposal/PP-03 Proposed Solution.md",
-    "02. My Portfolio/2. Project Proposal/PP-05 Methodology.md",
     "Read Me First.md",
     "2026-01-03.md",
     "2026-01-05.md",
     "Untitled.base",
-    "02. My Portfolio/2. Project Proposal/PP-06 Timeline.md",
     "01. Student Guide/2. Project Proposal/PP-08 Budget.md",
-    "02. My Portfolio/2. Project Proposal/PP-08 Budget.md",
     "01. Student Guide/2. Project Proposal/PP-05 Methodology.md",
     "01. Student Guide/2. Project Proposal/PP-04 Deliverables.md",
     "01. Student Guide/2. Project Proposal/PP-03 Proposed Solution.md",
@@ -230,7 +232,6 @@
     "02. My Portfolio/2. Project Proposal/PP-01 Executive Summary.md",
     "02. My Portfolio/1. Project Journal/PJ-20260103.md",
     "01. Student Guide/2. Project Proposal/PP-07 Resources.md",
-    "01. Student Guide/2. Project Proposal/PP-06 Timeline.md",
     "01. Student Guide/1. Project Journal/PJ-20261029 - Good Journal Entry.md",
     "01. Student Guide/2. Project Proposal/PP-01 Executive Summary.md",
     "01. Student Guide/2. Project Proposal/About Project Proposal.md",
