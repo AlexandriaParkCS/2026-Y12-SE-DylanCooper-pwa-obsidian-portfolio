@@ -1,5 +1,3 @@
-	### Project Deliverables
-
 Upon completion of the Anagram project, the following deliverables will be produced:
 
 - **Working Application:**  

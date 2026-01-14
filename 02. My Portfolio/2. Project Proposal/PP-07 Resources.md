@@ -1,4 +1,3 @@
-
 | Team member  | Role                 | Skills                                                     |
 | ------------ | -------------------- | ---------------------------------------------------------- |
 | Dylan Cooper | Full-stack Developer | Python, Flask, SQL, HTML, CSS                              |

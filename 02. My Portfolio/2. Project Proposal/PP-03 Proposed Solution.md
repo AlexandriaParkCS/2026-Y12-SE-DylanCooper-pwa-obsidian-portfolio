@@ -71,4 +71,4 @@ Anagram will be developed using the following third-party software and hardware 
     
 - Version control and collaboration: GitHub
     
-- Deployment environment: Desktop and mobile web browsers supporting PWA standards...
+- Deployment environment: Desktop and mobile web browsers supporting PWA standards

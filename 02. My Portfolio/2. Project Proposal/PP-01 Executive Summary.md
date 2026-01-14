@@ -1,1 +1,7 @@
-...
+High school students frequently experience poor academic performance and elevated stress during examination and assessment periods due to ineffective time management and unsupported study planning. Existing solutions are either overly complex, lack assistance tools, or not designed with secondary students’ needs in mind, resulting in inconsistent usage and little benefit.
+
+This project proposes the **Anagram** Progressive Web Application (PWA), designed to be secure, responsive and support high school students in organising study schedules, subjects, and assessment tasks. Built using Python and Flask, Anagram will provide authenticated user accounts, structured study planning features, and a centralised dashboard to support persistent and intentional study habits. User data will be stored using a secure **Object-Relational Mapping** (ORM) based database, with validation, authentication, and privacy controls aligned with security by design principles.
+
+The project will follow an Agile development approach, supporting iterative development, incremental testing, and refinement across defined stages from proposal through to final release. Delivery will be guided by a structured timeline supported by milestone based planning, ensuring alignment with assessment deadlines and scope constraints.
+
+Final deliverables will include a fully functional PWA prototype, a version controlled source code repository, technical and user documentation, and an evaluation reflecting testing outcomes and success criteria. The project will be completed as a student-led development with an estimated cost of $25 AUD, relying primarily on free development tools and services.
