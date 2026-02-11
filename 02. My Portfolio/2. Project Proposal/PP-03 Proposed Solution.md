@@ -18,7 +18,7 @@ The key features of Anagram are:
 - Study session scheduling and task tracking
 - Interactive study calendar and dashboard
 - Progress visualisation through charts and summaries
-- Dynamic schedule suggestions via analytical tools
+- **Dynamic schedule suggestions via analytical tools** maybe
 
 **Performance**
 - Fast load times and efficient data handling
