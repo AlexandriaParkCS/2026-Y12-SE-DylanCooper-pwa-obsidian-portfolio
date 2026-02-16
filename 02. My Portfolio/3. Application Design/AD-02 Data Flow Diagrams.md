@@ -29,6 +29,7 @@ The Level 1 Data Flow Diagram showcases Anagram's major internal processes.
 - Structures task information into a schedule format.
 - Writes schedule updates to the Database
 - Forwarded to the cache for dashboard refresh and database for storage
+
 **Process 4: Notifier**
 - The Notifier process retrieves stored dates and times from the Database.
 - It compares scheduled tasks with the current system time and generates notifications when tasks are due or approaching deadlines.
