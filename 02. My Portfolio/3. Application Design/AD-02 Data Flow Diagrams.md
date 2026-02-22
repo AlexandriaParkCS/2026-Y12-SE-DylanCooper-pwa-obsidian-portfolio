@@ -10,7 +10,7 @@ Students provide **credentials** to Anagram when registering or logging in. Once
 Users submit tasks and dates to the system. These are processed and stored in the Database. The Database returns schedule and calendar data to Anagram when required.
 ### **Level 1 Data Flow Diagram**
 The Level 1 Data Flow Diagram showcases Anagram's major internal processes.
-![[Level 1 data flow - Anagram.png]]
+![[Level 1 DFD.png]]
 **Process 1 - Login / Register**
 - Users submit credentials to the Login/Register process.  
 - The system validates credentials and performs authentication and authorisation.

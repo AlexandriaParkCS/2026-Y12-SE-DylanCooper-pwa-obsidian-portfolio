@@ -16,7 +16,7 @@ The Dashboard Generation process is responsible for producing personalised finan
 
 At the top of the hierarchy is the Generate Dashboard module, which coordinates all submodules to retrieve, process, and present relevant financial data. It delegates tasks to three key data retrieval modules: Get User Data, Get Transactions, and Get Goals. These modules access the SQL database to collect the user’s profile, financial records, and savings goals, respectively.
 
-Once data is retrieved, it is passed to processing modules. Categorise Transactions organises financial entries into meaningful groups (e.g., Food, Transport, Savings), while Calculate Goal Progress compares current savings against user-defined targets.
+Once data is retrieved, it is passed to processing modules. Categories Transactions organises financial entries into meaningful groups (e.g., Food, Transport, Savings), while Calculate Goal Progress compares current savings against user-defined targets.
 
 The data summaries are then used to create tables and charts which visualise spending patterns and goal progress.
 
