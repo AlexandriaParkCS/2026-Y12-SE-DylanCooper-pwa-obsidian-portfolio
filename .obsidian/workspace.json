@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. My Portfolio/3. Application Design/AD-06 Data Dictionary.md",
+                "file": "02. My Portfolio/1. Project Journal/PJ-20260227.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AD-06 Data Dictionary"
+              "title": "PJ-20260227"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Student Guide/3. Application Design/AD-07 Class Diagrams.md",
+                "file": "02. My Portfolio/3. Application Design/AD-06 Data Dictionary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AD-07 Class Diagrams"
+              "title": "AD-06 Data Dictionary"
             }
           }
         ]
@@ -225,14 +225,15 @@
   },
   "active": "29ece567e14fc945",
   "lastOpenFiles": [
-    "01. Student Guide/3. Application Design/AD-07 Class Diagrams.md",
-    "01. Student Guide/3. Application Design/AD-06 Data Dictionary.md",
     "02. My Portfolio/3. Application Design/AD-06 Data Dictionary.md",
-    "02. My Portfolio/3. Application Design/AD-05 Entity Relationship Diagrams.md",
-    "ERD - Anagram.png",
-    "01. Student Guide/3. Application Design/AD-05 Entity Relationship Diagram.md",
-    "02. My Portfolio/3. Application Design/AD-07 Class Diagrams.md",
+    "02. My Portfolio/1. Project Journal/PJ-20260227.md",
     "02. My Portfolio/1. Project Journal/PJ-20260225.md",
+    "01. Student Guide/3. Application Design/AD-07 Class Diagrams.md",
+    "02. My Portfolio/3. Application Design/AD-07 Class Diagrams.md",
+    "02. My Portfolio/3. Application Design/AD-05 Entity Relationship Diagrams.md",
+    "01. Student Guide/3. Application Design/AD-06 Data Dictionary.md",
+    "02. My Portfolio/3. Application Design/ERD - Anagram.png",
+    "01. Student Guide/3. Application Design/AD-05 Entity Relationship Diagram.md",
     "01. Student Guide/3. Application Design/AD-04 Input Process Output Charts.md",
     "02. My Portfolio/2. Project Proposal/PP-05 Methodology.md",
     "02. My Portfolio/4. Application Implementation/CR-20251126 - Code Review Report Template.md",
